@@ -1,4 +1,4 @@
-
+![](https://github.com/ArjunRajputGLA/ArjunRajputGLA/blob/main/GitHub%20Banner.png)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imstorm23203attherategmail/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imstorm23203@gmail.com) 
 </br>
