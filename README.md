@@ -1,4 +1,9 @@
 ![](https://github.com/ArjunRajputGLA/ArjunRajputGLA/blob/main/GitHub%20Banner.png)
+
+<h2 align="center">A passionate AI 🤖, tech and space ☄️🛰️enthusiast from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunrajputgla&label=Profile%20views&color=0e75b6&style=flat" alt="arjunrajputgla" /> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imstorm23203attherategmail/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imstorm23203@gmail.com) 
 </br>
