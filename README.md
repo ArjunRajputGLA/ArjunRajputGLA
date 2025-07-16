@@ -1,7 +1,7 @@
 ![](https://github.com/ArjunRajputGLA/ArjunRajputGLA/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Arjun+Singh+Rajput!;I+love+building+real+world+solutions;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=80&duration=4500&lines=Hi+There!+👋;+I'm+Arjun+Singh+Rajput!;🧪+I+love+building+real+world+solutions+🧪;" />
 </h1>
 
 <h3 align="center">🤖 AI Enthusiast | 🚀 Space Explorer | 💻 Tech Innovator from India</h3>
