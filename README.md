@@ -93,8 +93,8 @@ const arjun = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunRajputGLA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRajputGLA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArjunRajputGLA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRajputGLA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@ const arjun = {
 
 ## 💡 Fun Facts
 
-- 🌌 I dream of building automated AI systems
+- 🫱🏾‍🫲🏼 I dream of building a startup one day
 - 🧠 Currently exploring the intersection of AI and quantum computing
 - 🚀 Passionate about making technology accessible to everyone
 - 🌟 Always excited to collaborate on innovative projects
@@ -130,6 +130,10 @@ const arjun = {
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Feel+free+to+reach+out!" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ArjunRajputGLA&icon=2&color=6" alt="Visit Count" />
 </div>
 
 ---
