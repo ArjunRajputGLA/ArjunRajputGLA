@@ -121,7 +121,7 @@ const arjun = {
 
 ## 💡 Fun Facts
 
-- 🌌 I dream of building AI systems for space exploration
+- 🌌 I dream of building automated AI systems
 - 🧠 Currently exploring the intersection of AI and quantum computing
 - 🚀 Passionate about making technology accessible to everyone
 - 🌟 Always excited to collaborate on innovative projects
@@ -130,10 +130,6 @@ const arjun = {
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Feel+free+to+reach+out!" />
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ArjunRajputGLA&icon=2&color=6" alt="Visit Count" />
 </div>
 
 ---
