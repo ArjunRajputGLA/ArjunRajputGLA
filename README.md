@@ -1,7 +1,7 @@
 ![](https://github.com/ArjunRajputGLA/ArjunRajputGLA/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arjun+Rajput!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Arjun+Singh+Rajput!;I+love+building+real+world+solutions;" />
 </h1>
 
 <h3 align="center">🤖 AI Enthusiast | 🚀 Space Explorer | 💻 Tech Innovator from India</h3>
@@ -16,9 +16,9 @@
 
 ```javascript
 const arjun = {
-    passions: ["Artificial Intelligence", "Space Technology", "Full Stack Development"],
+    interests: ["Artificial Intelligence", "Space Technology and Facts", "Full Stack Development"],
     currentFocus: "Building AI-powered solutions",
-    funFact: "I believe the future lies in the intersection of AI and space exploration! 🛰️",
+    funFact: "When you look up in the sky, you actually look down at the Universe! 🛰️",
     askMeAbout: ["AI/ML", "Web Development", "Space Tech", "Open Source"]
 };
 ```
