@@ -14,6 +14,8 @@
 
 ## 🌟 About Me
 
+<div style="font-size: 28px;">
+
 ```javascript
 const arjun = {
     interests: ["Artificial Intelligence", "Space Technology and Facts", "Full Stack Development"],
@@ -22,6 +24,8 @@ const arjun = {
     askMeAbout: ["AI/ML", "Web Development", "Space Tech", "Open Source"]
 };
 ```
+
+</div>
 
 ---
 
